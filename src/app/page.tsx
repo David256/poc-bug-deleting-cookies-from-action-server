@@ -22,6 +22,10 @@ export default function Home() {
       <br />
 
       <Link href="/private">Go to private page</Link>
+
+      <br />
+
+      <Link href="/private-2">Go to private page (as client component)</Link>
     </div>
   )
 }
