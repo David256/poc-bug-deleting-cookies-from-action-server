@@ -1,5 +1,5 @@
 {
-  "name": "poc-bug-deleting-cookies-from-action-server",
+  "name": "poc-bug-deleting-cookies-from-server-action",
   "version": "0.1.0",
   "private": true,
   "scripts": {

@@ -12,9 +12,9 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'POC - deleting cookies from an action server',
+  title: 'POC - deleting cookies from a server action',
   description:
-    'Here we test the feature of deleting cookies from an Action Server',
+    'Here we test the feature of deleting cookies from a Server Action',
 }
 
 export default function RootLayout({
